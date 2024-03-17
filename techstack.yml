@@ -1,0 +1,1760 @@
+repo_name: LaggAt/Docs
+report_id: e1076cfbb114ac84e3256319d107e3e4
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-17T14:00:50+00:00'
+requested_by: ExplodingCabbage
+provider: github
+branch: master
+detected_tools_count: 115
+tools:
+- name: ASP.NET
+  description: An open source web framework for building modern web apps and services
+    with .NET
+  website_url: https://www.asp.net/
+  version: 4.5.2
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/data/entity-framework-6/sample/EF6/EF6.csproj
+  detection_source: aspnetcore/data/entity-framework-6/sample/EF6/EF6.csproj
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/LaggAt/Docs
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/LaggAt/Docs
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/LaggAt/Docs
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnet/identity/overview/migrations/migrating-an-existing-website-from-sql-membership-to-aspnet-identity/samples/sample1.sql
+  detection_source: aspnet/identity/overview/migrations/migrating-an-existing-website-from-sql-membership-to-aspnet-identity/samples/sample1.sql
+  last_updated_by: Tom Dykstra
+  last_updated_on: 2017-02-03 21:40:22.000000000 Z
+- name: Smalltalk
+  description: An object-oriented, dynamically typed reflective programming language
+  website_url: http://en.wikipedia.org/wiki/Smalltalk
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2624/no-img-open-source.png
+  detection_source_url: https://github.com/LaggAt/Docs
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/tutorials/web-api-help-pages-using-swagger/sample/src/TodoApi/TodoApi.csproj
+  detection_source: aspnetcore/tutorials/web-api-help-pages-using-swagger/sample/src/TodoApi/TodoApi.csproj
+  last_updated_by: damienbod
+  last_updated_on: 2017-02-13 01:04:45.000000000 Z
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  version: '1.1'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  last_updated_by: damienbod
+  last_updated_on: 2017-02-10 18:48:58.000000000 Z
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  last_updated_by: damienbod
+  last_updated_on: 2017-02-10 18:48:58.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 3.3.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/bower.json
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/bower.json
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 2.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/bower.json
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/bower.json
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: Entity Framework
+  description: An object-relational mapper that enables .NET developers to work with
+    relational data
+  website_url: https://docs.microsoft.com/en-us/aspnet/entity-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/3251/no-img-open-source.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/data/ef-mvc/intro/samples/cu-final/ContosoUniversity.csproj
+  detection_source: aspnetcore/data/ef-mvc/intro/samples/cu-final/ContosoUniversity.csproj
+  last_updated_by: Tom Dykstra
+  last_updated_on: 2017-03-16 15:49:41.000000000 Z
+- name: Entity Framework Core
+  description: Lightweight and cross-platform version of the popular Entity Framework
+  website_url: https://docs.microsoft.com/en-us/ef/core/
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/10254/no-img-open-source.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  last_updated_by: Scott Addie
+  last_updated_on: 2017-03-20 21:10:30.000000000 Z
+- name: Microsoft SQL Server
+  description: A relational database management system developed by Microsoft
+  website_url: http://microsoft.com/sqlserver
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1027/sql_server.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/data/ef-mvc/intro/samples/cu-final/ContosoUniversity.csproj
+  detection_source: aspnetcore/data/ef-mvc/intro/samples/cu-final/ContosoUniversity.csproj
+  last_updated_by: Tom Dykstra
+  last_updated_on: 2017-03-16 15:49:41.000000000 Z
+- name: SQLite
+  description: A software library that implements a self-contained, serverless, zero-configuration,
+    transactional SQL database engine
+  website_url: http://www.sqlite.org/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/tutorials/first-mvc-app-xplat/start-mvc/sample/MvcMovie/MvcMovie.csproj
+  detection_source: aspnetcore/tutorials/first-mvc-app-xplat/start-mvc/sample/MvcMovie/MvcMovie.csproj
+  last_updated_by: Rick Anderson
+  last_updated_on: 2017-03-29 21:15:18.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/LaggAt/Docs
+  detection_source: Repo Metadata
+- name: Moq
+  description: The most popular and friendly mocking framework for .NET
+  website_url: https://github.com/Moq/moq4
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/1628/1434934.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/mvc/controllers/testing/sample/TestingControllersSample/tests/TestingControllersSample.Tests/TestingControllersSample.Tests.csproj
+  detection_source: aspnetcore/mvc/controllers/testing/sample/TestingControllersSample/tests/TestingControllersSample.Tests/TestingControllersSample.Tests.csproj
+  last_updated_by: Steve Smith
+  last_updated_on: 2017-04-13 18:36:56.000000000 Z
+- name: NGINX
+  description: A high performance free open source web server powering busiest sites
+    on the Internet.
+  website_url: http://nginx.org
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/publishing/linuxproduction/nginx.conf
+  detection_source: aspnetcore/publishing/linuxproduction/nginx.conf
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/tutorials/web-api-help-pages-using-swagger/sample/src/TodoApi/TodoApi.csproj
+  detection_source: aspnetcore/tutorials/web-api-help-pages-using-swagger/sample/src/TodoApi/TodoApi.csproj
+  last_updated_by: damienbod
+  last_updated_on: 2017-02-13 01:04:45.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/AngularJSSample.sln
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/AngularJSSample.sln
+  last_updated_by: damienbod
+  last_updated_on: 2017-02-10 18:48:58.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 3.8.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/package.json
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/package.json
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/mvc/controllers/testing/sample/TestingControllersSample/src/TestingControllersSample/bower.json
+  detection_source: aspnetcore/mvc/controllers/testing/sample/TestingControllersSample/src/TestingControllersSample/bower.json
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: xUnit
+  description: An open source, community-focused unit testing tool
+  website_url: http://xunit.github.io/
+  version: 2.2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/mvc/controllers/testing/sample/TestingControllersSample/tests/TestingControllersSample.Tests/TestingControllersSample.Tests.csproj
+  detection_source: aspnetcore/mvc/controllers/testing/sample/TestingControllersSample/tests/TestingControllersSample.Tests/TestingControllersSample.Tests.csproj
+  last_updated_by: Steve Smith
+  last_updated_on: 2017-04-13 18:36:56.000000000 Z
+- name: Twilio SendGrid
+  description: Email Delivery. Simplified.
+  website_url: http://sendgrid.com
+  open_source: false
+  hosted_saas: true
+  category: Communications
+  sub_category: Transactional Email
+  image_url: https://img.stackshare.io/service/43/kQ_6nwmP.jpg
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/security/authentication/accconfirm/sample/WebApp1/WebApp1.csproj
+  detection_source: aspnetcore/security/authentication/accconfirm/sample/WebApp1/WebApp1.csproj
+  last_updated_by: Rick Anderson
+  last_updated_on: 2017-03-08 19:49:26.000000000 Z
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/LaggAt/Docs
+  detection_source: Repo Metadata
+- name: BuildBundlerMinifier
+  description: Bundles and minifies CSS, JS and HTML files
+  package_url: https://www.nuget.org/BuildBundlerMinifier
+  version: 2.4.337
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14830/default_e240b2e3aa3fd870c5c421ddf534c760d2f79310.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/bundling-and-minification/samples/BuildBundlerMinifierExample/BuildBundlerMinifierExample.csproj
+  detection_source: aspnetcore/client-side/bundling-and-minification/samples/BuildBundlerMinifierExample/BuildBundlerMinifierExample.csproj
+  last_updated_by: Shayne Boyer
+  last_updated_on: 2017-03-17 00:27:09.000000000 Z
+- name: Microsoft.ApplicationInsights.AspNetCore
+  description: Application Insights for ASP.NET Core web applications
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.AspNetCore
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13203/default_e23dabba1be2c69fbf5fc50bdc46cbffbe6ca2cb.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/bundling-and-minification/samples/BuildBundlerMinifierExample/BuildBundlerMinifierExample.csproj
+  detection_source: aspnetcore/client-side/bundling-and-minification/samples/BuildBundlerMinifierExample/BuildBundlerMinifierExample.csproj
+  last_updated_by: Shayne Boyer
+  last_updated_on: 2017-03-17 00:27:09.000000000 Z
+- name: Microsoft.AspNet.Mvc
+  description: ASP.NET MVC is a web framework that gives you a powerful, patterns-based
+    way to build dynamic websites and Web APIs
+  package_url: https://www.nuget.org/Microsoft.AspNet.Mvc
+  version: 5.2.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12850/default_0f5233770e71818507f2339042e7e61bef904e70.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/migration/http-modules/sample/Asp.Net4/Asp.Net4/packages.config
+  detection_source: aspnetcore/migration/http-modules/sample/Asp.Net4/Asp.Net4/packages.config
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: Microsoft.AspNet.Razor
+  description: Razor is a markup syntax for adding server-side logic to web pages
+  package_url: https://www.nuget.org/Microsoft.AspNet.Razor
+  version: 3.2.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12930/default_f8bf1110f8f0beaf5fae35865de7f77ccd1139f0.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/migration/http-modules/sample/Asp.Net4/Asp.Net4/packages.config
+  detection_source: aspnetcore/migration/http-modules/sample/Asp.Net4/Asp.Net4/packages.config
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: Microsoft.AspNet.WebApi
+  description: This package contains everything you need to host ASP.NET Web API on
+    IIS
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebApi
+  version: 5.2.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12923/default_039376cf26bae25623c106aea6185b89980a1e50.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/migration/webapi/sample/ProductsApp/packages.config
+  detection_source: aspnetcore/migration/webapi/sample/ProductsApp/packages.config
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: Microsoft.AspNet.WebApi.Client
+  description: This package adds support for formatting and content negotiation to
+    System.Net.Http
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebApi.Client
+  version: 5.2.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12870/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/migration/webapi/sample/ProductsApp/packages.config
+  detection_source: aspnetcore/migration/webapi/sample/ProductsApp/packages.config
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: Microsoft.AspNet.WebApi.Core
+  description: This package contains the core runtime assemblies for ASP.NET Web API
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebApi.Core
+  version: 5.2.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12879/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/migration/webapi/sample/ProductsApp/packages.config
+  detection_source: aspnetcore/migration/webapi/sample/ProductsApp/packages.config
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: Microsoft.AspNet.WebApi.WebHost
+  description: This package contains everything you need to host ASP.NET Web API on
+    IIS
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebApi.WebHost
+  version: 5.2.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12978/default_d871263d8798790404638a4d3692cc70b6389166.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/migration/webapi/sample/ProductsApp/packages.config
+  detection_source: aspnetcore/migration/webapi/sample/ProductsApp/packages.config
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: Microsoft.AspNet.WebPages
+  description: This package contains core runtime assemblies shared between ASP.NET
+    MVC and ASP.NET Web Pages
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebPages
+  version: 3.2.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12947/default_d871263d8798790404638a4d3692cc70b6389166.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/migration/http-modules/sample/Asp.Net4/Asp.Net4/packages.config
+  detection_source: aspnetcore/migration/http-modules/sample/Asp.Net4/Asp.Net4/packages.config
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: Microsoft.AspNetCore.Antiforgery
+  description: An antiforgery system for ASP.NET Core designed to generate and validate
+    tokens to prevent Cross-Site Request Forgery attacks
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Antiforgery
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13941/default_826161c752e8ceaee6a6a43824c0991b826e787f.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/security/anti-request-forgery/sample/AngularSample/AngularSample.csproj
+  detection_source: aspnetcore/security/anti-request-forgery/sample/AngularSample/AngularSample.csproj
+  last_updated_by: Rick Anderson
+  last_updated_on: 2017-03-27 14:32:27.000000000 Z
+- name: Microsoft.AspNetCore.Authentication.Cookies
+  description: ASP.NET Core middleware that enables an application to use cookie based
+    authentication
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Authentication.Cookies
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13224/default_3b9faa77d26eef0a944d4dab8d562db23059cb72.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  last_updated_by: damienbod
+  last_updated_on: 2017-02-10 18:48:58.000000000 Z
+- name: Microsoft.AspNetCore.Diagnostics
+  description: ASP.NET Core middleware for exception handling, exception display pages,
+    and diagnostics information
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Diagnostics
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13164/default_8ec8443385d582f19f93b79f0dcf69f422e58967.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  last_updated_by: damienbod
+  last_updated_on: 2017-02-10 18:48:58.000000000 Z
+- name: Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore
+  description: ASP.NET Core middleware for Entity Framework Core error pages
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore
+  version: 1.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13743/default_4056691b3b7b6737ac5df5ff7e15081a39ed930f.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  last_updated_by: Scott Addie
+  last_updated_on: 2017-03-20 21:10:30.000000000 Z
+- name: Microsoft.AspNetCore.Hosting
+  description: ASP.NET Core hosting infrastructure and startup logic for web applications
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Hosting
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12961/default_cd4457378b2b3dee674f43707df49edfbc5c04e5.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/owin/sample/src/NowinSample/project.json
+  detection_source: aspnetcore/tutorials/web-api-help-pages-using-swagger/sample/src/TodoApi/TodoApi.csproj
+  last_updated_by: damienbod
+  last_updated_on: 2017-02-13 01:04:45.000000000 Z
+- name: Microsoft.AspNetCore.Hosting.WindowsServices
+  description: ASP.NET Core hosting infrastructure and startup logic for web applications
+    running within a Windows service
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Hosting.WindowsServices
+  version: 1.1.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/15484/default_373c0a61e3fbaa8c44d1241e3b24074bf0b5f100.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/hosting/windows-service/sample/AspNetCoreService.csproj
+  detection_source: aspnetcore/hosting/windows-service/sample/AspNetCoreService.csproj
+  last_updated_by: Tom Dykstra
+  last_updated_on: 2017-03-28 18:13:27.000000000 Z
+- name: Microsoft.AspNetCore.Http.Abstractions
+  description: ASP.NET Core HTTP object model for HTTP requests and responses and
+    also common extension methods for registering middleware in an IApplicationBuilder
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Http.Abstractions
+  version: 1.0.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12884/default_485731cffe5047176f704e34ccfabc7dc075f3d9.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/performance/caching/distributed/sample/src/DistCacheSample/DistCacheSample.csproj
+  detection_source: aspnetcore/performance/caching/distributed/sample/src/DistCacheSample/DistCacheSample.csproj
+  last_updated_by: Rick Anderson
+  last_updated_on: 2017-02-10 20:14:21.000000000 Z
+- name: Microsoft.AspNetCore.Identity
+  description: ASP.NET Core Identity is the membership system for building ASP.NET
+    Core web applications, including membership, login, and user data
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Identity
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13046/default_a0b0eac5a401515996bd8fc359ffcfbc844cbe90.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/security/anti-request-forgery/sample/AngularSample/AngularSample.csproj
+  detection_source: aspnetcore/security/anti-request-forgery/sample/AngularSample/AngularSample.csproj
+  last_updated_by: Rick Anderson
+  last_updated_on: 2017-03-27 14:32:27.000000000 Z
+  vulnerabilities:
+  - name: " Microsoft Security Advisory CVE-2023-33170: .NET Security Feature Bypass
+      Vulnerability"
+    cve_id: CVE-2023-33170
+    cve_url: https://github.com/advisories/GHSA-25c8-p796-jg6r
+    detected_date: Jul 12
+    severity: high
+    first_patched: 2.1.39
+  - name: Security feature bypass vulnerability exists in ASP.NET when the number
+      of incorrect login attempts is not validated
+    cve_id: CVE-2018-8171
+    cve_url: https://github.com/advisories/GHSA-vhvh-528q-ff3p
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.1.6
+- name: Microsoft.AspNetCore.Identity.EntityFrameworkCore
+  description: ASP.NET Core Identity provider that uses Entity Framework Core
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Identity.EntityFrameworkCore
+  version: 1.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13053/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/bundling-and-minification/samples/WebApplication1/src/WebApplication1/project.json
+  detection_source: aspnetcore/fundamentals/localization/sample/sample.csproj
+  last_updated_by: Rick Anderson
+  last_updated_on: 2017-02-10 04:37:05.000000000 Z
+- name: Microsoft.AspNetCore.Localization
+  description: ASP.NET Core middleware for automatically applying culture information
+    to HTTP requests
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Localization
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13644/default_caea7bad7b4a139d311b2e539aca8e744ed730e5.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/localization/sample/sample.csproj
+  detection_source: aspnetcore/fundamentals/localization/sample/sample.csproj
+  last_updated_by: Rick Anderson
+  last_updated_on: 2017-02-10 04:37:05.000000000 Z
+- name: Microsoft.AspNetCore.Mvc
+  description: ASP.NET Core MVC is a web framework that gives you a powerful, patterns-based
+    way to build dynamic websites and web APIs
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Mvc
+  version: 1.1.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12878/default_485731cffe5047176f704e34ccfabc7dc075f3d9.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  last_updated_by: damienbod
+  last_updated_on: 2017-02-10 18:48:58.000000000 Z
+  vulnerabilities:
+  - name: High severity vulnerability that affects Microsoft.AspNetCore.Mvc
+    cve_id: CVE-2017-0249
+    cve_url: https://github.com/advisories/GHSA-qhqf-ghgh-x2m4
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.1.3
+  - name: ASP.NET Core fails to properly validate web requests
+    cve_id: CVE-2017-0247
+    cve_url: https://github.com/advisories/GHSA-6xh7-4v2w-36q6
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.1.3
+  - name: Moderate severity vulnerability that affects Microsoft.AspNetCore.Mvc and
+      Microsoft.AspNetCore.Mvc.Core
+    cve_id: CVE-2017-0248
+    cve_url: https://github.com/advisories/GHSA-ch6p-4jcm-h8vh
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.1.3
+  - name: Moderate severity vulnerability that affects Microsoft.AspNetCore.Mvc
+    cve_id: CVE-2017-0256
+    cve_url: https://github.com/advisories/GHSA-j8f4-2w4p-mhjc
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.1.3
+- name: Microsoft.AspNetCore.Mvc.Core
+  description: ASP.NET Core MVC core components
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Mvc.Core
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12903/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  detection_source: aspnetcore/tutorials/web-api-help-pages-using-swagger/sample/src/TodoApi/TodoApi.csproj
+  last_updated_by: damienbod
+  last_updated_on: 2017-02-13 01:04:45.000000000 Z
+  vulnerabilities:
+  - name: Cross-origin Resource Sharing bypass in ASP.NET Core
+    cve_id: CVE-2017-8700
+    cve_url: https://github.com/advisories/GHSA-3rp6-rjw4-cq39
+    detected_date: Jul 9
+    severity: high
+    first_patched: 1.1.6
+  - name: ASP.NET Core fails to properly validate web requests
+    cve_id: CVE-2017-0247
+    cve_url: https://github.com/advisories/GHSA-6xh7-4v2w-36q6
+    detected_date: Jan 28
+    severity: high
+    first_patched: 1.1.3
+  - name: High severity vulnerability that affects Microsoft.AspNetCore.Mvc
+    cve_id: CVE-2017-0249
+    cve_url: https://github.com/advisories/GHSA-qhqf-ghgh-x2m4
+    detected_date: Jan 28
+    severity: high
+    first_patched: 1.1.3
+  - name: Moderate severity vulnerability that affects Microsoft.AspNetCore.Mvc and
+      Microsoft.AspNetCore.Mvc.Core
+    cve_id: CVE-2017-0248
+    cve_url: https://github.com/advisories/GHSA-ch6p-4jcm-h8vh
+    detected_date: Jan 28
+    severity: moderate
+    first_patched: 1.1.3
+  - name: Moderate severity vulnerability that affects Microsoft.AspNetCore.Mvc
+    cve_id: CVE-2017-0256
+    cve_url: https://github.com/advisories/GHSA-j8f4-2w4p-mhjc
+    detected_date: Jan 28
+    severity: moderate
+    first_patched: 1.1.3
+- name: Microsoft.AspNetCore.Mvc.Localization
+  description: ASP.NET Core MVC features that enable globalization and localization
+    of applications
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Mvc.Localization
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14354/default_7ee57076546c5d89d1c4056cbbb2bd2ab883c607.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/localization/sample/sample.csproj
+  detection_source: aspnetcore/fundamentals/localization/sample/sample.csproj
+  last_updated_by: Rick Anderson
+  last_updated_on: 2017-02-10 04:37:05.000000000 Z
+  vulnerabilities:
+  - name: ASP.NET Core fails to properly validate web requests
+    cve_id: CVE-2017-0247
+    cve_url: https://github.com/advisories/GHSA-6xh7-4v2w-36q6
+    detected_date: Jan 28
+    severity: high
+    first_patched: 1.1.3
+  - name: High severity vulnerability that affects Microsoft.AspNetCore.Mvc
+    cve_id: CVE-2017-0249
+    cve_url: https://github.com/advisories/GHSA-qhqf-ghgh-x2m4
+    detected_date: Jan 28
+    severity: high
+    first_patched: 1.1.3
+  - name: Moderate severity vulnerability that affects Microsoft.AspNetCore.Mvc and
+      Microsoft.AspNetCore.Mvc.Core
+    cve_id: CVE-2017-0248
+    cve_url: https://github.com/advisories/GHSA-ch6p-4jcm-h8vh
+    detected_date: Jan 28
+    severity: moderate
+    first_patched: 1.1.3
+  - name: Moderate severity vulnerability that affects Microsoft.AspNetCore.Mvc
+    cve_id: CVE-2017-0256
+    cve_url: https://github.com/advisories/GHSA-j8f4-2w4p-mhjc
+    detected_date: Jan 28
+    severity: moderate
+    first_patched: 1.1.3
+- name: Microsoft.AspNetCore.Mvc.TagHelpers
+  description: ASP.NET Core MVC default tag helpers
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Mvc.TagHelpers
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13281/default_0e6336285a2ac0713cff413264705f5aa2f348a1.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/localization/sample/sample.csproj
+  detection_source: aspnetcore/fundamentals/localization/sample/sample.csproj
+  last_updated_by: Rick Anderson
+  last_updated_on: 2017-02-10 04:37:05.000000000 Z
+  vulnerabilities:
+  - name: ASP.NET Core fails to properly validate web requests
+    cve_id: CVE-2017-0247
+    cve_url: https://github.com/advisories/GHSA-6xh7-4v2w-36q6
+    detected_date: Jan 28
+    severity: high
+    first_patched: 1.1.3
+  - name: High severity vulnerability that affects Microsoft.AspNetCore.Mvc
+    cve_id: CVE-2017-0249
+    cve_url: https://github.com/advisories/GHSA-qhqf-ghgh-x2m4
+    detected_date: Jan 28
+    severity: high
+    first_patched: 1.1.3
+  - name: Moderate severity vulnerability that affects Microsoft.AspNetCore.Mvc and
+      Microsoft.AspNetCore.Mvc.Core
+    cve_id: CVE-2017-0248
+    cve_url: https://github.com/advisories/GHSA-ch6p-4jcm-h8vh
+    detected_date: Jan 28
+    severity: moderate
+    first_patched: 1.1.3
+  - name: Moderate severity vulnerability that affects Microsoft.AspNetCore.Mvc
+    cve_id: CVE-2017-0256
+    cve_url: https://github.com/advisories/GHSA-j8f4-2w4p-mhjc
+    detected_date: Jan 28
+    severity: moderate
+    first_patched: 1.1.3
+- name: Microsoft.AspNetCore.Routing
+  description: ASP.NET Core middleware for routing requests to application logic and
+    for generating links
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Routing
+  version: 1.0.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13139/default_a057bdad489be3cb053d372a68695da4ac94962d.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/using-browserlink/sample/BrowserLinkSample/src/BrowserLinkSample/project.json
+  detection_source: aspnetcore/fundamentals/app-state/sample/src/WebAppSession/WebAppSession.csproj
+  last_updated_by: Steve Smith
+  last_updated_on: 2017-03-30 18:35:59.000000000 Z
+- name: Microsoft.AspNetCore.Server.IISIntegration
+  description: ASP.NET Core components for working with the IIS AspNetCoreModule
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Server.IISIntegration
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13351/default_97f005023342604c2e0668a9597b9eb6971b1d06.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  last_updated_by: damienbod
+  last_updated_on: 2017-02-10 18:48:58.000000000 Z
+- name: Microsoft.AspNetCore.Server.Kestrel
+  description: ASP.NET Core Kestrel cross-platform web server
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Server.Kestrel
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13098/default_baa6c1c3e725b18a803052f0d13efd0ca49e5d50.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  last_updated_by: damienbod
+  last_updated_on: 2017-02-10 18:48:58.000000000 Z
+- name: Microsoft.AspNetCore.Server.Kestrel.Https
+  description: HTTPS support for the ASP.NET Core Kestrel cross-platform web server
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Server.Kestrel.Https
+  version: 1.1.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13607/default_2fed3dd41a57ad03758b88d7d49dbbc498986493.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/url-rewriting/sample/URLRewritingSample.csproj
+  detection_source: aspnetcore/fundamentals/url-rewriting/sample/URLRewritingSample.csproj
+  last_updated_by: Luke Latham
+  last_updated_on: 2017-03-14 18:23:12.000000000 Z
+- name: Microsoft.AspNetCore.Session
+  description: ASP.NET Core session state middleware
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Session
+  version: 1.1.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13467/default_9bed24fda7c43823a3e1a93400ac800e54f4524c.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/app-state/sample/src/WebAppSession/WebAppSession.csproj
+  detection_source: aspnetcore/fundamentals/app-state/sample/src/WebAppSession/WebAppSession.csproj
+  last_updated_by: Steve Smith
+  last_updated_on: 2017-03-30 18:35:59.000000000 Z
+- name: Microsoft.AspNetCore.StaticFiles
+  description: ASP.NET Core static files middleware
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.StaticFiles
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13028/default_a0b0eac5a401515996bd8fc359ffcfbc844cbe90.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  last_updated_by: damienbod
+  last_updated_on: 2017-02-10 18:48:58.000000000 Z
+- name: Microsoft.AspNetCore.TestHost
+  description: ASP.NET Core web server for writing and running tests
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.TestHost
+  version: 1.0.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13268/default_3b9faa77d26eef0a944d4dab8d562db23059cb72.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/mvc/controllers/testing/sample/TestingControllersSample/tests/TestingControllersSample.Tests/TestingControllersSample.Tests.csproj
+  detection_source: aspnetcore/mvc/controllers/testing/sample/TestingControllersSample/tests/TestingControllersSample.Tests/TestingControllersSample.Tests.csproj
+  last_updated_by: Steve Smith
+  last_updated_on: 2017-04-13 18:36:56.000000000 Z
+- name: Microsoft.EntityFrameworkCore
+  description: Entity Framework Core is a lightweight and extensible version of the
+    popular Entity Framework data access technology
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore
+  version: 1.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12852/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/configuration/sample/src/CustomConfigurationProvider/CustomConfigurationProvider.csproj
+  detection_source: aspnetcore/fundamentals/configuration/sample/src/CustomConfigurationProvider/CustomConfigurationProvider.csproj
+  last_updated_by: Steve Smith
+  last_updated_on: 2017-03-30 17:54:24.000000000 Z
+- name: Microsoft.EntityFrameworkCore.InMemory
+  description: In-memory database provider for Entity Framework Core
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.InMemory
+  version: 1.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13150/default_81ac985912284073db895b0d26abf3657532a164.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/dependency-injection/sample/DependencyInjectionSample/DependencyInjectionSample.csproj
+  detection_source: aspnetcore/fundamentals/dependency-injection/sample/DependencyInjectionSample/DependencyInjectionSample.csproj
+  last_updated_by: Steve Smith
+  last_updated_on: 2017-03-30 17:49:50.000000000 Z
+- name: Microsoft.EntityFrameworkCore.Relational
+  description: Shared Entity Framework Core components for relational database providers
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.Relational
+  version: 1.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12914/default_cd4457378b2b3dee674f43707df49edfbc5c04e5.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/localization/sample/sample.csproj
+  detection_source: aspnetcore/fundamentals/localization/sample/sample.csproj
+  last_updated_by: Rick Anderson
+  last_updated_on: 2017-02-10 04:37:05.000000000 Z
+- name: Microsoft.EntityFrameworkCore.SqlServer
+  description: Microsoft SQL Server database provider for Entity Framework Core
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.SqlServer
+  version: 1.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12891/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/bundling-and-minification/samples/WebApplication1/src/WebApplication1/project.json
+  detection_source: aspnetcore/data/ef-mvc/intro/samples/cu-final/ContosoUniversity.csproj
+  last_updated_by: Tom Dykstra
+  last_updated_on: 2017-03-16 15:49:41.000000000 Z
+- name: Microsoft.EntityFrameworkCore.SqlServer.Design
+  description: Design-time Entity Framework Core Functionality for Microsoft SQL Server
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.SqlServer.Design
+  version: 1.1.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13827/default_e637dea816bab62ca037ba8b354e359bd6438b40.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/data/ef-mvc/intro/samples/cu-final/ContosoUniversity.csproj
+  detection_source: aspnetcore/data/ef-mvc/intro/samples/cu-final/ContosoUniversity.csproj
+  last_updated_by: Tom Dykstra
+  last_updated_on: 2017-03-16 15:49:41.000000000 Z
+- name: Microsoft.EntityFrameworkCore.Sqlite
+  description: SQLite database provider for Entity Framework Core
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.Sqlite
+  version: 1.1.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13077/default_0af6f5844ebd9062a9a4895d909753dc8447f2f3.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/tutorials/first-mvc-app-xplat/start-mvc/sample/MvcMovie/MvcMovie.csproj
+  detection_source: aspnetcore/tutorials/first-mvc-app-xplat/start-mvc/sample/MvcMovie/MvcMovie.csproj
+  last_updated_by: Rick Anderson
+  last_updated_on: 2017-04-19 20:27:30.000000000 Z
+- name: Microsoft.EntityFrameworkCore.Tools
+  description: Entity Framework Core Tools for the NuGet Package Manager Console in
+    Visual Studio
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.Tools
+  version: 1.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13138/default_a057bdad489be3cb053d372a68695da4ac94962d.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/data/ef-mvc/intro/samples/cu/ContosoUniversity.csproj
+  detection_source: aspnetcore/data/ef-mvc/intro/samples/cu/ContosoUniversity.csproj
+  last_updated_by: Tom Dykstra
+  last_updated_on: 2017-03-16 15:49:41.000000000 Z
+- name: Microsoft.Extensions.Caching.Abstractions
+  description: Caching abstractions for in-memory cache and distributed cache
+  package_url: https://www.nuget.org/Microsoft.Extensions.Caching.Abstractions
+  version: 1.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12952/default_54d470a1e19c265eb229b6bd88965fb8df9f9f78.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/performance/caching/distributed/sample/src/DistCacheSample/DistCacheSample.csproj
+  detection_source: aspnetcore/performance/caching/distributed/sample/src/DistCacheSample/DistCacheSample.csproj
+  last_updated_by: Rick Anderson
+  last_updated_on: 2017-02-10 20:14:21.000000000 Z
+- name: Microsoft.Extensions.Caching.Memory
+  description: In-memory cache implementation of Microsoft.Extensions.Caching.Memory.IMemoryCache
+  package_url: https://www.nuget.org/Microsoft.Extensions.Caching.Memory
+  version: 1.1.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12906/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/app-state/sample/src/WebAppSession/WebAppSession.csproj
+  detection_source: aspnetcore/fundamentals/app-state/sample/src/WebAppSession/WebAppSession.csproj
+  last_updated_by: Steve Smith
+  last_updated_on: 2017-03-30 18:35:59.000000000 Z
+- name: Microsoft.Extensions.Caching.Redis
+  description: Distributed cache implementation of Microsoft.Extensions.Caching.Distributed.IDistributedCache
+    using Redis
+  package_url: https://www.nuget.org/Microsoft.Extensions.Caching.Redis
+  version: 1.0.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13403/default_9b520b7c258654c414831abb72568e430492595c.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/performance/caching/distributed/sample/src/DistCacheSample/DistCacheSample.csproj
+  detection_source: aspnetcore/performance/caching/distributed/sample/src/DistCacheSample/DistCacheSample.csproj
+  last_updated_by: Rick Anderson
+  last_updated_on: 2017-02-10 20:14:21.000000000 Z
+- name: Microsoft.Extensions.Caching.SqlServer
+  description: Distributed cache implementation of Microsoft.Extensions.Caching.Distributed.IDistributedCache
+    using Microsoft SQL Server
+  package_url: https://www.nuget.org/Microsoft.Extensions.Caching.SqlServer
+  version: 1.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14247/default_65570c8bdde53c58fe20fc4201cc873b25bba64d.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/performance/caching/distributed/sample/src/DistCacheSample/DistCacheSample.csproj
+  detection_source: aspnetcore/performance/caching/distributed/sample/src/DistCacheSample/DistCacheSample.csproj
+  last_updated_by: Rick Anderson
+  last_updated_on: 2017-02-10 20:14:21.000000000 Z
+- name: Microsoft.Extensions.Configuration
+  description: Implementation of key-value pair based configuration for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration
+  version: 1.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12856/default_0f5233770e71818507f2339042e7e61bef904e70.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  detection_source: aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  last_updated_by: Rick Anderson
+  last_updated_on: 2016-12-08 04:08:45.000000000 Z
+- name: Microsoft.Extensions.Configuration.Abstractions
+  description: Abstractions of key-value pair based configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.Abstractions
+  version: 1.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12885/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  detection_source: aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  last_updated_by: Rick Anderson
+  last_updated_on: 2016-12-08 04:08:45.000000000 Z
+- name: Microsoft.Extensions.Configuration.Binder
+  description: Functionality to bind an object to data in configuration providers
+    for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.Binder
+  version: 1.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12893/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  detection_source: aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  last_updated_by: Rick Anderson
+  last_updated_on: 2016-12-08 04:08:45.000000000 Z
+- name: Microsoft.Extensions.Configuration.CommandLine
+  description: Command line configuration provider implementation for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.CommandLine
+  version: 1.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13130/default_f0c74e534077001eb65a152707758ce46a2dc970.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/configuration/sample/src/CodeSnippets/project.json
+  detection_source: aspnetcore/fundamentals/configuration/sample/src/CommandLine/CommandLine.csproj
+  last_updated_by: Steve Smith
+  last_updated_on: 2017-03-30 17:54:24.000000000 Z
+- name: Microsoft.Extensions.Configuration.EnvironmentVariables
+  description: Environment variables configuration provider implementation for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.EnvironmentVariables
+  version: 1.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12955/default_85d1877c90581261989cc5e05023faec547467b3.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  last_updated_by: Scott Addie
+  last_updated_on: 2017-03-20 21:10:30.000000000 Z
+- name: Microsoft.Extensions.Configuration.FileExtensions
+  description: Extension methods for configuring file-based configuration providers
+    for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.FileExtensions
+  version: 1.0.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12936/default_bd8397841d0aa5de035298a9130ee2dc9d9b0ece.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/configuration/sample/src/InMemory/InMemory.csproj
+  detection_source: aspnetcore/fundamentals/configuration/sample/src/InMemory/InMemory.csproj
+  last_updated_by: Steve Smith
+  last_updated_on: 2017-03-30 17:54:24.000000000 Z
+- name: Microsoft.Extensions.Configuration.Json
+  description: JSON configuration provider implementation for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.Json
+  version: 1.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12865/default_4ea11141d2970a66e9637b71cf054ab66968c217.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  last_updated_by: Scott Addie
+  last_updated_on: 2017-03-20 21:10:30.000000000 Z
+- name: Microsoft.Extensions.Configuration.UserSecrets
+  description: User secrets configuration provider implementation for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.UserSecrets
+  version: 1.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13212/default_18a92235046d8c8db548cd22b87cf5792dc31759.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/bundling-and-minification/samples/WebApplication1/src/WebApplication1/project.json
+  detection_source: aspnetcore/fundamentals/localization/sample/sample.csproj
+  last_updated_by: Rick Anderson
+  last_updated_on: 2017-02-10 04:37:05.000000000 Z
+- name: Microsoft.Extensions.FileProviders.Composite
+  description: Composite file and directory providers for Microsoft.Extensions.FileProviders
+  package_url: https://www.nuget.org/Microsoft.Extensions.FileProviders.Composite
+  version: 1.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13621/default_3e69852d36136f860cbd7840ffb14e3d1b96e265.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/file-providers/sample/src/FileProviderSample/FileProviderSample.csproj
+  detection_source: aspnetcore/fundamentals/file-providers/sample/src/FileProviderSample/FileProviderSample.csproj
+  last_updated_by: Rick Anderson
+  last_updated_on: 2017-02-10 20:16:50.000000000 Z
+- name: Microsoft.Extensions.FileProviders.Embedded
+  description: File provider for files in embedded resources for Microsoft.Extensions.FileProviders
+  package_url: https://www.nuget.org/Microsoft.Extensions.FileProviders.Embedded
+  version: 1.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13052/default_0af6f5844ebd9062a9a4895d909753dc8447f2f3.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/file-providers/sample/src/FileProviderSample/FileProviderSample.csproj
+  detection_source: aspnetcore/fundamentals/file-providers/sample/src/FileProviderSample/FileProviderSample.csproj
+  last_updated_by: Rick Anderson
+  last_updated_on: 2017-02-10 20:16:50.000000000 Z
+- name: Microsoft.Extensions.Logging
+  description: Logging infrastructure default implementation for Microsoft.Extensions.Logging
+  package_url: https://www.nuget.org/Microsoft.Extensions.Logging
+  version: 1.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12854/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  last_updated_by: Scott Addie
+  last_updated_on: 2017-03-20 21:10:30.000000000 Z
+- name: Microsoft.Extensions.Logging.Console
+  description: Console logger provider implementation for Microsoft.Extensions.Logging
+  package_url: https://www.nuget.org/Microsoft.Extensions.Logging.Console
+  version: 1.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12943/default_e7f4dfb8f4634d3de09f6ace4c8d9767d3189c61.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  last_updated_by: Scott Addie
+  last_updated_on: 2017-03-20 21:10:30.000000000 Z
+- name: Microsoft.Extensions.Logging.Debug
+  description: Debug output logger provider implementation for Microsoft.Extensions.Logging
+  package_url: https://www.nuget.org/Microsoft.Extensions.Logging.Debug
+  version: 1.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12995/default_c33fee4544dbdcb376300222dc5e214ee63f7ce9.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  last_updated_by: Scott Addie
+  last_updated_on: 2017-03-20 21:10:30.000000000 Z
+- name: Microsoft.Extensions.Options.ConfigurationExtensions
+  description: Provides additional configuration specific functionality related to
+    Options
+  package_url: https://www.nuget.org/Microsoft.Extensions.Options.ConfigurationExtensions
+  version: 1.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12882/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  last_updated_by: Scott Addie
+  last_updated_on: 2017-03-20 21:10:30.000000000 Z
+- name: Microsoft.Extensions.Primitives
+  description: Primitives shared by framework extensions
+  package_url: https://www.nuget.org/Microsoft.Extensions.Primitives
+  version: 1.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13043/default_0af6f5844ebd9062a9a4895d909753dc8447f2f3.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  detection_source: aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  last_updated_by: Rick Anderson
+  last_updated_on: 2016-12-08 04:08:45.000000000 Z
+- name: Microsoft.NETCore.App
+  description: A set of .NET API's that are included in the default .NET Core application
+    model
+  package_url: https://www.nuget.org/Microsoft.NETCore.App
+  version: 1.0.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12847/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/mvc/controllers/application-model/sample/src/AppModelSample/AppModelSample.csproj
+  detection_source: aspnetcore/mvc/controllers/application-model/sample/src/AppModelSample/AppModelSample.csproj
+  last_updated_by: Steve Smith
+  last_updated_on: 2016-12-23 17:42:32.000000000 Z
+  vulnerabilities:
+  - name: Improper Certificate Validation
+    cve_id: CVE-2017-11770
+    cve_url: https://github.com/advisories/GHSA-7mfr-774f-w5r9
+    detected_date: Apr 12
+    severity: high
+    first_patched: 2.0.3
+  - name: Improper Input Validation in Microsoft.NETCore.App
+    cve_id: CVE-2017-8585
+    cve_url: https://github.com/advisories/GHSA-8884-xcr4-r68p
+    detected_date: Nov 2
+    severity: high
+    first_patched: 1.0.7
+- name: Microsoft.VisualStudio.Web.BrowserLink.Loader
+  description: A middleware that supports creating a communication channel between
+    the development environment and one or more web browsers
+  package_url: https://www.nuget.org/Microsoft.VisualStudio.Web.BrowserLink.Loader
+  version: 14.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14451/default_dce15353d4e7d6b267167f9d58dad465610db3e6.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  last_updated_by: damienbod
+  last_updated_on: 2017-02-10 18:48:58.000000000 Z
+- name: Microsoft.VisualStudio.Web.CodeGeneration.Design
+  description: Code Generation tool for ASP.NET Core
+  package_url: https://www.nuget.org/Microsoft.VisualStudio.Web.CodeGeneration.Design
+  version: 1.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13477/default_eb78542773998d1500f13778aa04738ef49376bd.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/AngularJSSample.csproj
+  last_updated_by: damienbod
+  last_updated_on: 2017-02-10 18:48:58.000000000 Z
+- name: Microsoft.Web.Infrastructure
+  description: This package contains the Microsoft.Web.Infrastructure assembly that
+    lets you dynamically register HTTP modules at run time
+  package_url: https://www.nuget.org/Microsoft.Web.Infrastructure
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12927/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/migration/http-modules/sample/Asp.Net4/Asp.Net4/packages.config
+  detection_source: aspnetcore/migration/http-modules/sample/Asp.Net4/Asp.Net4/packages.config
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: Newtonsoft.Json
+  description: Json.NET is a popular high-performance JSON framework for .NET
+  package_url: https://www.nuget.org/Newtonsoft.Json
+  version: 6.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/nuget/image.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/migration/webapi/sample/ProductsApp/packages.config
+  detection_source: aspnetcore/migration/webapi/sample/ProductsApp/packages.config
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+  vulnerabilities:
+  - name: 'Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json'
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-8rfx-6mr3-5jh3
+    detected_date: Jan 4
+    severity: high
+    first_patched: 13.0.1
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: CVE-2024-21907
+    cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
+    detected_date: Jun 23
+    severity: high
+    first_patched: 13.0.1
+- name: Swashbuckle.AspNetCore
+  description: Swagger tools for documenting APIs built on ASP.NET Core
+  package_url: https://www.nuget.org/Swashbuckle.AspNetCore
+  version: 1.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12981/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/tutorials/web-api-help-pages-using-swagger/sample/src/TodoApi/TodoApi.csproj
+  detection_source: aspnetcore/tutorials/web-api-help-pages-using-swagger/sample/src/TodoApi/TodoApi.csproj
+  last_updated_by: damienbod
+  last_updated_on: 2017-02-13 01:04:45.000000000 Z
+- name: System.Collections
+  description: Provides classes that define generic collections
+  package_url: https://www.nuget.org/System.Collections
+  version: 4.0.11
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12855/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  detection_source: aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  last_updated_by: Rick Anderson
+  last_updated_on: 2016-12-08 04:08:45.000000000 Z
+- name: System.ComponentModel.Primitives
+  description: Provides interfaces that are used to implement the run-time and design-time
+    behavior of components
+  package_url: https://www.nuget.org/System.ComponentModel.Primitives
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13110/default_048f7c1081704627a12b8b5e168cfdbc9f28fb33.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  detection_source: aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  last_updated_by: Rick Anderson
+  last_updated_on: 2016-12-08 04:08:45.000000000 Z
+- name: System.ComponentModel.TypeConverter
+  description: Provides the System.ComponentModel.TypeConverter class, which represents
+    a unified way of converting types of values to other types
+  package_url: https://www.nuget.org/System.ComponentModel.TypeConverter
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12989/default_dd10728859f7e363ef13345d855b2daba48cace4.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  detection_source: aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  last_updated_by: Rick Anderson
+  last_updated_on: 2016-12-08 04:08:45.000000000 Z
+- name: System.Diagnostics.Debug
+  description: Provides classes and attributes that allows basic interaction with
+    a debugger
+  package_url: https://www.nuget.org/System.Diagnostics.Debug
+  version: 4.0.11
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12887/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  detection_source: aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  last_updated_by: Rick Anderson
+  last_updated_on: 2016-12-08 04:08:45.000000000 Z
+- name: System.Diagnostics.TraceSource
+  description: Provides classes that help you trace the execution of your code
+  package_url: https://www.nuget.org/System.Diagnostics.TraceSource
+  version: 4.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13051/default_a0b0eac5a401515996bd8fc359ffcfbc844cbe90.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/mvc/controllers/testing/sample/TestingControllersSample/tests/TestingControllersSample.Tests/TestingControllersSample.Tests.csproj
+  detection_source: aspnetcore/mvc/controllers/testing/sample/TestingControllersSample/tests/TestingControllersSample.Tests/TestingControllersSample.Tests.csproj
+  last_updated_by: Steve Smith
+  last_updated_on: 2017-04-13 18:36:56.000000000 Z
+- name: System.IO
+  description: Provides base input and output
+  package_url: https://www.nuget.org/System.IO
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12901/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  detection_source: aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  last_updated_by: Rick Anderson
+  last_updated_on: 2016-12-08 04:08:45.000000000 Z
+- name: System.Linq
+  description: Provides classes and interfaces that supports queries that use Language-Integrated
+    Query
+  package_url: https://www.nuget.org/System.Linq
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12857/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  detection_source: aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  last_updated_by: Rick Anderson
+  last_updated_on: 2016-12-08 04:08:45.000000000 Z
+- name: System.Net.Http
+  description: Provides a programming interface for modern HTTP applications
+  package_url: https://www.nuget.org/System.Net.Http
+  version: 4.1.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12860/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/mvc/controllers/testing/sample/TestingControllersSample/tests/TestingControllersSample.Tests/TestingControllersSample.Tests.csproj
+  detection_source: aspnetcore/mvc/controllers/testing/sample/TestingControllersSample/tests/TestingControllersSample.Tests/TestingControllersSample.Tests.csproj
+  last_updated_by: Steve Smith
+  last_updated_on: 2017-04-13 18:36:56.000000000 Z
+  vulnerabilities:
+  - name: ASP.NET Core fails to properly validate web requests
+    cve_id: CVE-2017-0247
+    cve_url: https://github.com/advisories/GHSA-6xh7-4v2w-36q6
+    detected_date: Jan 28
+    severity: high
+    first_patched: 4.1.2
+  - name: High severity vulnerability that affects Microsoft.AspNetCore.Mvc
+    cve_id: CVE-2017-0249
+    cve_url: https://github.com/advisories/GHSA-qhqf-ghgh-x2m4
+    detected_date: Jan 28
+    severity: high
+    first_patched: 4.1.2
+  - name: ".NET Core Information Disclosure"
+    cve_id: CVE-2018-8292
+    cve_url: https://github.com/advisories/GHSA-7jgj-8wvc-jh57
+    detected_date: Aug 22
+    severity: high
+    first_patched: 4.3.4
+  - name: Moderate severity vulnerability that affects Microsoft.AspNetCore.Mvc and
+      Microsoft.AspNetCore.Mvc.Core
+    cve_id: CVE-2017-0248
+    cve_url: https://github.com/advisories/GHSA-ch6p-4jcm-h8vh
+    detected_date: Jan 28
+    severity: moderate
+    first_patched: 4.1.2
+  - name: Moderate severity vulnerability that affects Microsoft.AspNetCore.Mvc
+    cve_id: CVE-2017-0256
+    cve_url: https://github.com/advisories/GHSA-j8f4-2w4p-mhjc
+    detected_date: Jan 28
+    severity: moderate
+    first_patched: 4.1.2
+- name: System.Resources.ResourceManager
+  description: Provides classes and attributes that allow developers to create, store,
+    and manage various culture-specific resources used in an application
+  package_url: https://www.nuget.org/System.Resources.ResourceManager
+  version: 4.0.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12898/default_1763b424d3c06c730dd020813f1a1a6ffb953bc2.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  detection_source: aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  last_updated_by: Rick Anderson
+  last_updated_on: 2016-12-08 04:08:45.000000000 Z
+- name: System.Runtime
+  description: Provides the fundamental primitives
+  package_url: https://www.nuget.org/System.Runtime
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12849/default_0f5233770e71818507f2339042e7e61bef904e70.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  detection_source: aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  last_updated_by: Rick Anderson
+  last_updated_on: 2016-12-08 04:08:45.000000000 Z
+- name: System.Runtime.Extensions
+  description: Provides commonly-used classes for performing mathematical functions,
+    conversions, string comparisons and querying environment information
+  package_url: https://www.nuget.org/System.Runtime.Extensions
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12872/default_1763b424d3c06c730dd020813f1a1a6ffb953bc2.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  detection_source: aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  last_updated_by: Rick Anderson
+  last_updated_on: 2016-12-08 04:08:45.000000000 Z
+- name: System.Runtime.InteropServices
+  description: Provides types that support COM interop and platform invoke services
+  package_url: https://www.nuget.org/System.Runtime.InteropServices
+  version: 4.1.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12908/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  detection_source: aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  last_updated_by: Rick Anderson
+  last_updated_on: 2016-12-08 04:08:45.000000000 Z
+- name: System.Threading
+  description: Provides the fundamental synchronization primitives, including System.Threading.Monitor
+    and System.Threading.Mutex, that are required when writing asynchronous code
+  package_url: https://www.nuget.org/System.Threading
+  version: 4.0.11
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12861/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  detection_source: aspnetcore/fundamentals/configuration/sample/ConfigInMemory/packages.config
+  last_updated_by: Rick Anderson
+  last_updated_on: 2016-12-08 04:08:45.000000000 Z
+- name: Twilio
+  description: Twilio REST API helper library
+  package_url: https://www.nuget.org/Twilio
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13503/default_311009104e9efa41dc477451d8d60c2d0cbe7895.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/security/authentication/2fa/sample/Web2FA/Web2FA.csproj
+  detection_source: aspnetcore/security/authentication/2fa/sample/Web2FA/Web2FA.csproj
+  last_updated_by: Rick Anderson
+  last_updated_on: 2017-04-01 21:08:25.000000000 Z
+- name: xunit.runner.visualstudio
+  description: Visual Studio 2012+ Test Explorer runner for the xUnit.net framework
+  package_url: https://www.nuget.org/xunit.runner.visualstudio
+  version: 2.2.0
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13260/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/mvc/controllers/testing/sample/TestingControllersSample/tests/TestingControllersSample.Tests/TestingControllersSample.Tests.csproj
+  detection_source: aspnetcore/mvc/controllers/testing/sample/TestingControllersSample/tests/TestingControllersSample.Tests/TestingControllersSample.Tests.csproj
+  last_updated_by: Steve Smith
+  last_updated_on: 2017-04-13 18:36:56.000000000 Z
+- name: del
+  description: Delete files and directories
+  package_url: https://www.npmjs.com/del
+  version: 2.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/bundling-and-minification/samples/BuildBundlerMinifierExample/package.json
+  detection_source: aspnetcore/client-side/bundling-and-minification/samples/BuildBundlerMinifierExample/package.json
+  last_updated_by: Shayne Boyer
+  last_updated_on: 2017-03-17 00:27:09.000000000 Z
+- name: gulp-concat
+  description: Concatenates files
+  package_url: https://www.npmjs.com/gulp-concat
+  version: 2.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15973/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/package.json
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/package.json
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: gulp-cssmin
+  description: Minify css using gulp
+  package_url: https://www.npmjs.com/gulp-cssmin
+  version: 0.1.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16629/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/package.json
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/package.json
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: gulp-htmlmin
+  description: Gulp plugin to minify HTML
+  package_url: https://www.npmjs.com/gulp-htmlmin
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16821/default_9a5182350af29cb82b3344853e865051f508ac6c.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/bundling-and-minification/samples/BuildBundlerMinifierExample/package.json
+  detection_source: aspnetcore/client-side/bundling-and-minification/samples/BuildBundlerMinifierExample/package.json
+  last_updated_by: Shayne Boyer
+  last_updated_on: 2017-03-17 00:27:09.000000000 Z
+- name: gulp-uglify
+  description: Minify files with UglifyJS
+  package_url: https://www.npmjs.com/gulp-uglify
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15910/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/package.json
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/package.json
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: merge-stream
+  description: Create a stream that emits events from multiple other streams
+  package_url: https://www.npmjs.com/merge-stream
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16419/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/bundling-and-minification/samples/BuildBundlerMinifierExample/package.json
+  detection_source: aspnetcore/client-side/bundling-and-minification/samples/BuildBundlerMinifierExample/package.json
+  last_updated_by: Shayne Boyer
+  last_updated_on: 2017-03-17 00:27:09.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 2.2.8
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/package.json
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/package.json
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: angular
+  description: Bower package for AngularJS
+  package_url: http://bower.io/angular
+  version: 1.5.7
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/bower.json
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/bower.json
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: angular-route
+  description: Angular-route bower repo
+  package_url: http://bower.io/angular-route
+  version: 1.5.7
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/bower.json
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/bower.json
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: bootstrap
+  description: The most popular front-end framework for developing responsive
+  package_url: http://bower.io/bootstrap
+  version: 3.3.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/bower.json
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/bower.json
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: jquery-validation
+  description: Form validation made easy
+  package_url: http://bower.io/jquery-validation
+  version: 1.14.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/bower.json
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/bower.json
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: jquery-validation-unobtrusive
+  description: Add-on to jQuery Validation to enable unobtrusive validation options
+    in data-* attributes
+  package_url: http://bower.io/jquery-validation-unobtrusive
+  version: 3.2.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/bower.json
+  detection_source: aspnetcore/client-side/angular/sample/AngularJSSample/src/AngularJSSample/bower.json
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
+- name: knockout
+  description: Knockout makes it easier to create rich
+  package_url: http://bower.io/knockout
+  version: 3.4.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/LaggAt/Docs/blob/master/aspnetcore/mvc/controllers/testing/sample/TestingControllersSample/src/TestingControllersSample/bower.json
+  detection_source: aspnetcore/mvc/controllers/testing/sample/TestingControllersSample/src/TestingControllersSample/bower.json
+  last_updated_by: Daniel Roth
+  last_updated_on: 2016-10-28 17:35:15.000000000 Z
